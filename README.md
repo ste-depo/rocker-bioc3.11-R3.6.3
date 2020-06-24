@@ -1,2 +1,33 @@
 # rocker-bioc3.10-R3.6.3
-Docker recipe to create RStudio with R 3.6.3, Bioconductor 3.10 and my favourite packages preinstalled
+Docker recipe to create RStudio with R 3.6.3, Bioconductor 3.10 and my favourite packages preinstalled:
+
+* XML
+* xml2
+* devtools
+* microbenchmark
+* roxygen2
+* mclust
+* fastcluster
+* ppcor
+* RMySQL
+* igraph
+* rJava
+* BiocStyle
+* compEpiTools
+* DESeq2
+* DEXSeq
+* GEOmetadb
+* clusterProfiler
+* msigdbr
+* BSgenome.Hsapiens.UCSC.hg18
+* BSgenome.Hsapiens.UCSC.hg19
+* BSgenome.Mmusculus.UCSC.mm9
+* BSgenome.Mmusculus.UCSC.mm10
+* TxDb.Hsapiens.UCSC.hg18.knownGene
+* TxDb.Hsapiens.UCSC.hg38.knownGene
+* TxDb.Mmusculus.UCSC.mm9.knownGene
+* org.Mm.eg.db
+* recount
+* SRAdb
+* INSPEcT
+* Onassis
