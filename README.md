@@ -12,6 +12,7 @@ Docker recipe to create RStudio with R 3.6.3, Bioconductor 3.10 and my favourite
 * RMySQL
 * igraph
 * rJava
+* pheatmap
 * BiocStyle
 * compEpiTools
 * DESeq2
