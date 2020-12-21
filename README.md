@@ -1,5 +1,5 @@
-# rocker-bioc3.10-R3.6.3
-Docker recipe to create RStudio with R 3.6.3, Bioconductor 3.10 and my favourite packages preinstalled:
+# rocker-bioc3.11-R4.0.3
+Docker recipe to create RStudio with R 4.0.3, Bioconductor 3.11 and my favourite packages preinstalled:
 
 * XML
 * xml2
